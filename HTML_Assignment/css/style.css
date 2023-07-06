@@ -1,0 +1,23 @@
+.green{
+    background-color: rgb(2, 196, 144);
+}
+
+.bg-col{
+    background-color: rgb(174, 237, 65);
+}
+
+.border-g{
+    border: 2px solid rgb(2, 173, 122);
+}
+
+.border-lg{
+    border: 3px solid rgb(117, 161, 41);
+}
+
+.border-input{
+    border: 1.5px solid black;
+}
+
+.smallfont{
+    font-size: 0.9rem; 
+}
